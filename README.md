@@ -2,6 +2,8 @@
 
 This is a full-stack event management platform built with React.js for the frontend and Node.js with Express and MongoDB for the backend. The platform allows users to create, update, and join events, as well as view event details and filter events by category and date.
 
+Live👉: https://eventify-lac-delta.vercel.app/
+
 ## Features
 
 - User authentication and authorization
